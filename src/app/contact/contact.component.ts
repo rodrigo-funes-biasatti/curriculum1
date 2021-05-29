@@ -10,6 +10,7 @@ export class ContactComponent implements OnInit {
   telefono = "2942-691102";
   email = "rodrigo11.funes@hotmail.com";
   github = "github.com/rodrigo-funes-biasatti";
+  linkedin = "www.linkedin.com/in/rodrigo-funes-biasatti-506219206/";
 
   constructor() { }
 
